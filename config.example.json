@@ -1,0 +1,9 @@
+{
+  "mountpoint": "/srv/storage",
+  "uuid": "REPLACE_WITH_DISK_UUID",
+  "fstype": "ext4",
+  "minimum_free_bytes": 1073741824,
+  "directories": [
+    "media"
+  ]
+}
